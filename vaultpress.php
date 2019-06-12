@@ -13,7 +13,7 @@
  * @package VaultPress
  */
 
-// don't call the file directly.
+// don't call the file directly HI!.
 defined( 'ABSPATH' ) || die();
 
 define( 'VAULTPRESS__MINIMUM_PHP_VERSION', '5.3.2' );
